@@ -7,8 +7,8 @@ function sommenombre(tab) {
   return somme;
 }
 console.log(sommenombre([100, 200, 300, 400, 500]));
+ 
 
-// function filtre des nombres pairs
 function filtrenombre(tab) {
     return tab.filter(function(valeur){
         return valeur % 2 === 0;
