@@ -1,4 +1,4 @@
-// function sommenombre
+
 function sommenombre(tab) {
   let somme = 0;
   for (let compteur = 0; compteur < tab.length; compteur++) {
